@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+target/
+*.iml
+.DS_Store
+pom.xml.versionsBackup
+flyway/
+coverage/
+overlays/
+/.settings
+/.classpath
+/.project
